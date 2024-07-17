@@ -97,3 +97,10 @@ git push origin main
 5. Enhance Documentation and Promotion
 Enhance README.md: Add screenshots, GIFs, or diagrams to visually explain your project.
 Promotion: Share your repository link on social media, developer forums, and relevant communities to attract attention and feedback.
+
+# OUTPUTS
+![0bitruary input form1](https://github.com/user-attachments/assets/99fb3175-6bb5-4ffe-944a-1ecfb65eb300)
+
+![obituary](https://github.com/user-attachments/assets/29730554-75ee-4e4d-b0c5-c61a4b5f01b3)
+
+
